@@ -6,7 +6,7 @@ const Navbar = () => {
 
   const toggleMenu = () => setIsOpen(!isOpen);
 
-  const navLinks = ["Home", "About", "Skills", "Projects", "Education","Certificates" ,"Contact"];
+  const navLinks = ["Home", "About", "Skills", "Projects", "Experience" , "Education" ,"Contact"];
 
   return (
     <nav className="bg-[#171d32] text-white fixed top-0 left-0 w-full z-50 shadow">

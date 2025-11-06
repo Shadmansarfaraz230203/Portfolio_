@@ -24,7 +24,7 @@ const Experience = () => {
               className="bg-gray-800/50 p-6 rounded-lg shadow-md border border-gray-300 hover:shadow-lg hover:scale-105 transition-transform "
             >
               
-              {/* <p className="text-white text-2xl">{edu.degree}</p> */}
+              { <p className="text-white text-2xl">{edu.degree}</p> }
               {/* <p className="text-white text-1xl ">
                 <strong>:</strong> {exp.year} | <strong>CGPA:</strong> {edu.cgpa}
               </p> */}
