@@ -1,11 +1,11 @@
 import About from "./Components/About/About";
-import Certificates from "./Components/Certificates/Certificates";
 import Education from "./Components/Education/Education";
 import Home from "./Components/Home/Home";
 import Navbar from "./Components/Navbar/Navbar";
 import Projects from "./Components/Projects/Projects";
 import Skills from "./Components/Skills/Skills";
 import Contact from "./Components/Contact/Contact";
+import Experience from "./Components/Experience/Experience";
 
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
     <About/>
     <Skills/>
     <Projects/>
+    <Experience/>
     <Education/>
-    <Certificates/>
     <Contact/>
 
   </div>

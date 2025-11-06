@@ -12,16 +12,16 @@ const About = () => {
         <div className="w-full md:w-2/3 text-center md:text-left">
           
           <p className="text-white text-lg leading-relaxed">
-            I'm <span className="font-semibold text-[#465697]">Shadman Sarfaraz</span>, a passionate and dedicated
-            <strong> Full-Stack Web Developer</strong> with a strong foundation in HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and Express.js.
-            
-            <br /><br />
-             As a fresher, I’m driven by curiosity and a desire to build meaningful, user-friendly web applications. I enjoy learning new technologies, solving real-world problems through code, and continuously improving my skills.
-            <br /><br />
-             I’ve worked on several personal and academic projects that reflect my ability to handle both frontend and backend tasks. I’m committed to writing clean, efficient, and scalable code.
-            <br /><br />
-             I'm currently seeking opportunities to join a dynamic team where I can contribute, grow, and kickstart my journey as a professional developer.
-          </p>
+  I'm <span className="font-semibold text-[#465697]">Shadman Sarfaraz</span>, a passionate 
+  <strong> Full-Stack Web Developer</strong> skilled in HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and Express.js.
+  <br /><br />
+  As a fresher, I love building user-friendly web apps, learning new technologies, and solving real-world problems.
+  <br /><br />
+  My projects showcase my ability to handle both frontend and backend tasks with clean, efficient, and scalable code.
+  <br /><br />
+  I'm seeking a dynamic team where I can contribute, learn, and grow as a professional developer.
+</p>
+
         </div>
 
         {/* Profile Image */}
